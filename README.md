@@ -69,20 +69,15 @@ Email: darshananand004@gmail.com
 ## Observations and Results
 
 ### Object Detection Output 1
-![Output 1](path_to_image_1.png)  
+![Output 1](![image](https://github.com/DarshanAnand007/YOLO_V8_Object_Detection/assets/93935699/39266898-4351-448c-9e9a-7604062ec0bc)
+)  
 480x640 1 person, 170.5ms ...
 
-### Object Detection Output 2
-![Output 2](path_to_image_2.png)  
-480x640 1 person, 165.0ms ...
-
 ### Object Detection Output 3
-![Output 3](path_to_image_3.png)  
+![Output 3](![image](https://github.com/DarshanAnand007/YOLO_V8_Object_Detection/assets/93935699/4bcbd9d8-94ad-4232-b3ac-e974689fd92e)
+)  
 480x640 1 person, 163.8ms ...
 
-### Object Detection Output 4
-![Output 4](path_to_image_4.png)  
-480x640 2 persons, 167.1ms ...
 
 ## Performance Metrics
 
