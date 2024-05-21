@@ -116,19 +116,3 @@ Email: darshananand004@gmail.com
 Dayananda Sagar University  
 CSE - AIML Pre-final Year Student
 ```
-
-### Adding a Video Link
-
-To add a video link that plays directly within your GitHub `README.md`, you can use an embedded YouTube link. Here’s how to do it:
-
-1. Upload your video to YouTube or Google Drive.
-2. Copy the video link.
-3. Replace `https://youtu.be/your_video_link` in the `README.md` file with your actual video link.
-
-If you're using Google Drive, make sure the link is set to public and anyone with the link can view the video. Use the following format for embedding a YouTube video:
-
-```markdown
-For a video demonstration of this project, please watch [this video](https://youtu.be/your_video_link).
-```
-
-If you follow these steps, your `README.md` will be comprehensive and include all necessary information for others to replicate your project. You can then push this `README.md` along with other project files to your GitHub repository.
