@@ -107,7 +107,7 @@ Overall, this project demonstrates the viability of deploying advanced AI models
 
 ## Video Demonstration
 
-For a video demonstration of this project, please watch [this video](https://youtu.be/your_video_link).
+For a video demonstration of this project, please watch [this video]([https://youtu.be/your_video_link](https://youtu.be/2_9wImj44zA?si=N0CQRErOPktQnanH)).
 
 ## Contact
 
